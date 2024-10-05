@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+  }
+  
+  #game-image {
+    max-width: 100%;
+  }
+  
+  #target-box {
+    position: absolute;
+    border: 2px solid red;
+    display: none; 
+  }
+  
